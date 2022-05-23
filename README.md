@@ -1,6 +1,17 @@
 # travelling_app
 
 A new Flutter project.
+ 
+The user can register through the application 
+
+ choose the transportation method you want
+
+ select your travel destination and travel time
+
+ the system checks if this method is available at this time
+if it is available, the user will choose the class wanted
+
+ finally the user will choose the appropriate payment method and then confirm the reservation
 
 ## Getting Started
 
